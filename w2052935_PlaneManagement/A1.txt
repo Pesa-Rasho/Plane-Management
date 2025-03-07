@@ -1,0 +1,9 @@
+Ticket Information
+Row : A
+Seat number : 1
+Price : £ 200.0
+
+Personal Information
+Name: Pesandu
+Surname: Rashodya
+Email: pesa@gmail.com

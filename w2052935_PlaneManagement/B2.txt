@@ -1,0 +1,9 @@
+Ticket Information
+Row : B
+Seat number : 2
+Price : £ 200.0
+
+Personal Information
+Name: Dewnaka
+Surname: Godage
+Email: dew@gmail.com

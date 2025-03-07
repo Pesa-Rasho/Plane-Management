@@ -1,0 +1,9 @@
+Ticket Information
+Row : C
+Seat number : 3
+Price : £ 200.0
+
+Personal Information
+Name: Vinura
+Surname: Imalka
+Email: vinur@gmail.com
